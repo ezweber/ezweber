@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm ezweber</h1>
 <h3 align="center">A student learning cyber security and a Linux enthusiast.</h3>
-<h4 aling="center"><b>I use Arch BTW</b></h4>
+<h4 align="center"><b>I use Arch BTW</b></h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ezweber&label=Profile%20views&color=0e75b6&style=flat" alt="ezweber" /> </p>
 
