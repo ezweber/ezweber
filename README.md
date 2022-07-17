@@ -3,6 +3,9 @@
 <h4 align="center"><b>I use Arch BTW</b></h4>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ezweber&show_icons=true&theme=gruvbox&locale=en" alt="stats" /></p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezweber&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
 <h3 align="center">You can find me...</h3>
 <ul>
   <li>On <a href="https://discord.com">Discord</a></li>
