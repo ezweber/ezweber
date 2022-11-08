@@ -11,6 +11,8 @@
 
 ###
 
+<p align="center">Hello I'm ezweber. Just a guy that's interesting in technology and how the things I use work. I love expanding my skills, building and hacking on stuff, and rock climbing. Average outdoors enjoyer.</p>
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" width="52" alt="bash logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
@@ -21,5 +23,3 @@
 </div>
 
 ###
-
-<p align="center">Hello I'm ezweber. Just a guy that's interesting in technology and how the things I use work. I love expanding my skills, building and hacking on stuff, and rock climbing. Average outdoors enjoyer.</p>
