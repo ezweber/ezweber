@@ -23,9 +23,3 @@
 ###
 
 <p align="center">Hello I'm ezweber. Just a guy that's interesting in technology and how the things I use work. I love expanding my skills, building and hacking on stuff, and rock climbing. Average outdoors enjoyer.</p>
-
-###
-
-<img src="https://raw.githubusercontent.com/ezweber/ezweber/blob/output/snake.svg" alt="Snake animation" />
-
-###
